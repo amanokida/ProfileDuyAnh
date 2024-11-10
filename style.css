@@ -247,7 +247,7 @@ body{
 .logoFooter{
     background:linear-gradient(to bottom , #0e3746 ,black , black);
     width: 100%;
-    height: 455 px;
+    height: 455px;
     position: relative;
 }
 .logoFooter .logoFooterH1{
@@ -256,7 +256,6 @@ body{
     font:bold;
     background: linear-gradient(to right,rgba(30, 29, 29, 0.317), rgba(128, 128, 128, 0.442) , rgba(128, 128, 128, 0.677), rgb(12, 12, 12));
     display: inline;
-    padding: ;
     font-size: 6rem;
     position: absolute;
     top: 50%;
